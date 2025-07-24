@@ -1,0 +1,8 @@
+  # Convert to long Format
+  # 02_10_analysis-tidyr-pivot-longer.R
+head(sales, 3)
+sales_long <-                                         # data/sales_long.csv
+  tidyr::pivot_longer(sales, cols = !c(period, shop), # ! means exclusion
+                      names_to = "item", values_to = "count")
+head(sales_long, 3)
+

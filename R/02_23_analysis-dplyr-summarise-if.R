@@ -1,0 +1,6 @@
+  # Summary of a column containing numbers
+  # 02_23_analysis-dplyr-summarise-if.R
+dplyr::group_by(sales_joined, item) |> 
+  dplyr::summarise_if(is.numeric, max) |>
+  print(n = 3)
+

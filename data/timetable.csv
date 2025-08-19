@@ -1,0 +1,176 @@
+id,grade,semester,wday,hour,subject,teacher
+102,2,second,Wed,2,Basic Exercises C,HAYASHI
+11,1,first,Tue,4,Basic Exercises A,HASHIMOTO
+16,1,first,Tue,4,Basic Exercises A,HAYASHI
+14,1,first,Tue,4,Basic Exercises A,MORIMOTO
+15,1,first,Tue,4,Basic Exercises A,MURAKAMI
+12,1,first,Tue,4,Basic Exercises A,TAKAHASHI
+13,1,first,Tue,4,Basic Exercises A,YAMASHITA
+47,1,second,Tue,4,Basic Exercises B,HASHIMOTO
+52,1,second,Tue,4,Basic Exercises B,HAYASHI
+50,1,second,Tue,4,Basic Exercises B,MORIMOTO
+51,1,second,Tue,4,Basic Exercises B,MURAKAMI
+48,1,second,Tue,4,Basic Exercises B,TAKAHASHI
+49,1,second,Tue,4,Basic Exercises B,YAMASHITA
+40,1,second,Mon,3,Biochemistry,KOBAYASHI
+21,1,first,Wed,3,Biology,KOBAYASHI
+23,1,first,Wed,4,Biology,KOBAYASHI
+58,1,second,Wed,3,Biology,KOBAYASHI
+61,1,second,Wed,4,Biology,KOBAYASHI
+24,1,first,Thu,2,Chemistry,YOSHIDA
+25,1,first,Thu,3,Chemistry,YOSHIDA
+80,2,first,Mon,3,Clothing Culture Theory,YAMASHITA
+84,2,first,Tue,3,Clothing Lifestyle Design Theory,YAMASHITA
+77,2,first,Mon,1,Color Coordination Practice,HAYASHI
+78,2,first,Mon,2,Color Coordination Practice,HAYASHI
+53,1,second,Wed,1,Color Coordination Theory,HAYASHI
+10,1,first,Tue,2,Computer Science A,ADACHI
+45,1,second,Tue,2,Computer Science B,HASEGAWA
+38,1,second,Mon,2,Consumer Economics,TAKAHASHI
+19,1,first,Wed,1,Ecology,MORIMOTO
+4,1,first,Mon,3,Economics,TAKAHASHI
+9,1,first,Tue,1,English Conversation A,NAKAMURA
+43,1,second,Tue,1,English Conversation B,MAEDA
+33,1,first,Fri,2,English A,OKADA
+71,1,second,Fri,2,English B,OKAMOTO
+54,1,second,Wed,1,Environmental Studies,MORIMOTO
+85,2,first,Wed,1,Finance Theory,TAKAHASHI
+86,2,first,Wed,2,Food Coordination Theory,YAMAGUCHI
+73,1,second,Fri,4,Food Environment Hygiene,ONISHI
+46,1,second,Tue,3,Food Lifestyle Design Theory,YAMAGUCHI
+6,1,first,Mon,3,Food Science,NISHIMURA
+105,2,second,Fri,3,Food Science Practice,YAMAMOTO
+107,2,second,Fri,4,Food Science Practice,YAMAMOTO
+81,2,first,Mon,4,Global Environmental Studies,KOBAYASHI
+82,2,first,Tue,1,Housing Design PracticumA/B,FUJITA
+83,2,first,Tue,2,Housing Design PracticumA/B,FUJITA
+17,1,first,Wed,1,Housing Theory,MURAKAMI
+55,1,second,Wed,2,Interior Design,FUJIWARA
+30,1,first,Thu,4,Introduction To Environmental Studies,HAYASHI
+57,1,second,Wed,3,Legal Studies,SATO
+70,1,second,Fri,1,Life and Environment,MORIMOTO
+8,1,first,Mon,5,Life Science,KOBAYASHI
+42,1,second,Mon,4,Life Science,KOBAYASHI
+35,1,first,Fri,3,Lifelong Sports Theory,HASHIMOTO
+60,1,second,Wed,4,Nmentalism,FUJIMOTO
+128,3,first,Thu,3,Practical Life Environment Studies A,FUJIWARA
+121,3,first,Thu,3,Practical Life Environment Studies A,HASHIMOTO
+129,3,first,Thu,3,Practical Life Environment Studies A,HAYASHI
+125,3,first,Thu,3,Practical Life Environment Studies A,MORIMOTO
+127,3,first,Thu,3,Practical Life Environment Studies A,MURAKAMI
+126,3,first,Thu,3,Practical Life Environment Studies A,NISHIMURA
+122,3,first,Thu,3,Practical Life Environment Studies A,TAKAHASHI
+124,3,first,Thu,3,Practical Life Environment Studies A,YAMAGUCHI
+123,3,first,Thu,3,Practical Life Environment Studies A,YAMASHITA
+144,3,second,Thu,3,Practical Life Environment Studies B,FUJIWARA
+137,3,second,Thu,3,Practical Life Environment Studies B,HASHIMOTO
+145,3,second,Thu,3,Practical Life Environment Studies B,HAYASHI
+141,3,second,Thu,3,Practical Life Environment Studies B,MORIMOTO
+143,3,second,Thu,3,Practical Life Environment Studies B,MURAKAMI
+142,3,second,Thu,3,Practical Life Environment Studies B,NISHIMURA
+138,3,second,Thu,3,Practical Life Environment Studies B,TAKAHASHI
+140,3,second,Thu,3,Practical Life Environment Studies B,YAMAGUCHI
+139,3,second,Thu,3,Practical Life Environment Studies B,YAMASHITA
+79,2,first,Mon,3,Science Of Lifelong Sports,FUJII
+108,2,second,Fri,4,Science Of Lifelong Sports,FUJII
+150,3,second,Thu,4,Special Seminar On Environmental Studies,FUJIWARA
+153,3,second,Thu,5,Special Seminar On Environmental Studies,FUJIWARA
+136,3,second,Thu,2,Special Seminar On Environmental Studies,HAYASHI
+151,3,second,Thu,4,Special Seminar On Environmental Studies,HAYASHI
+120,3,first,Thu,2,Special Seminar On Environmental Studies,MORIMOTO
+154,3,second,Fri,1,Special Seminar On Environmental Studies,MURAKAMI
+156,3,second,Fri,2,Special Seminar On Environmental Studies,MURAKAMI
+149,3,second,Thu,4,Special Seminar On Environmental Studies,NISHIMURA
+146,3,second,Thu,4,Special Seminar On Environmental Studies,TAKAHASHI
+148,3,second,Thu,4,Special Seminar On Environmental Studies,YAMAGUCHI
+147,3,second,Thu,4,Special Seminar On Environmental Studies,YAMASHITA
+152,3,second,Thu,5,Special Seminar On Environmental Studies,YAMASHITA
+1,1,first,Mon,1,Sports Practice A,FUJII
+3,1,first,Mon,2,Sports Practice A,FUJII
+18,1,first,Wed,1,Sports Practice A,HASHIMOTO
+31,1,first,Fri,1,Sports Practice A,HASHIMOTO
+22,1,first,Wed,4,Sports Practice A,ITO
+28,1,first,Thu,4,Sports Practice A,MATSUMOTO
+34,1,first,Fri,2,Sports Practice A,TANIGUCHI
+2,1,first,Mon,2,Sports Practice A,YAMADA
+7,1,first,Mon,4,Sports Practice A,YAMADA
+37,1,second,Mon,2,Sports Practice B,FUJII
+64,1,second,Thu,3,Sports Practice B,FUJII
+44,1,second,Tue,1,Sports Practice B,HASHIMOTO
+68,1,second,Fri,1,Sports Practice B,HASHIMOTO
+75,1,second,others,9,Sports Practice B,HASHIMOTO
+59,1,second,Wed,4,Sports Practice B,ITO
+63,1,second,Thu,2,Sports Practice B,MATSUMOTO
+66,1,second,Thu,4,Sports Practice B,MATSUMOTO
+72,1,second,Fri,2,Sports Practice B,TANIGUCHI
+41,1,second,Mon,4,Sports Practice B,YAMADA
+27,1,first,Thu,3,Sports PracticeC,FUJII
+29,1,first,Thu,4,Sports PracticeC,FUJII
+20,1,first,Wed,3,Sports PracticeC,ITO
+26,1,first,Thu,3,Sports PracticeC,MATSUMOTO
+32,1,first,Fri,1,Sports PracticeC,TANIGUCHI
+5,1,first,Mon,3,Sports PracticeC,YAMADA
+36,1,second,Mon,1,Sports PracticeD,FUJII
+67,1,second,Thu,4,Sports PracticeD,FUJII
+76,1,second,others,9,Sports PracticeD,HASHIMOTO
+56,1,second,Wed,3,Sports PracticeD,ITO
+65,1,second,Thu,3,Sports PracticeD,MATSUMOTO
+69,1,second,Fri,1,Sports PracticeD,TANIGUCHI
+39,1,second,Mon,3,Sports PracticeD,YAMADA
+62,1,second,Thu,1,Theory Of Living Environment,MURAKAMI
+165,4,first,Wed,3,Thesis A,FUJIWARA
+158,4,first,Wed,3,Thesis A,HASHIMOTO
+166,4,first,Wed,3,Thesis A,HAYASHI
+162,4,first,Wed,3,Thesis A,MORIMOTO
+164,4,first,Wed,3,Thesis A,MURAKAMI
+163,4,first,Wed,3,Thesis A,NISHIMURA
+159,4,first,Wed,3,Thesis A,TAKAHASHI
+161,4,first,Wed,3,Thesis A,YAMAGUCHI
+160,4,first,Wed,3,Thesis A,YAMASHITA
+174,4,second,Wed,3,Thesis B,FUJIWARA
+167,4,second,Wed,3,Thesis B,HASHIMOTO
+175,4,second,Wed,3,Thesis B,HAYASHI
+171,4,second,Wed,3,Thesis B,MORIMOTO
+173,4,second,Wed,3,Thesis B,MURAKAMI
+172,4,second,Wed,3,Thesis B,NISHIMURA
+168,4,second,Wed,3,Thesis B,TAKAHASHI
+170,4,second,Wed,3,Thesis B,YAMAGUCHI
+169,4,second,Wed,3,Thesis B,YAMASHITA
+74,1,second,Fri,5,Women's Health Management Theory,MORI
+94,2,second,Mon,3,Apparel Materials Theory,YAMASHITA
+133,3,second,Tue,3,Interior Coordination Practice,FUJIWARA
+112,3,first,Tue,3,Interior Coordination Theory,FUJIWARA
+88,2,first,Fri,1,Science Of Training,SHIMIZU
+90,2,first,Fri,2,Training Theory,SHIMIZU
+119,3,first,Thu,2,Fashion Theory,HAYASHI
+130,3,first,Fri,1,Food Specialist Theory,ONISHI
+100,2,second,Tue,3,Universal Design Theory,MORIMOTO
+131,3,first,Fri,2,Recreation Practice A,HASHIMOTO
+155,3,second,Fri,2,Recreation Practice B,HASHIMOTO
+157,3,all,others,9,Recreation Practice,HASHIMOTO
+101,2,second,Wed,1,Recreation Theory,HASHIMOTO
+89,2,first,Fri,1,Environmental Amenity Theory,MORIMOTO
+99,2,second,Tue,2,Health and Nutrition,INOUE
+110,3,first,Mon,2,Social Security Theory,TAKAHASHI
+132,3,first,Fri,3,History Of Housing,MURAKAMI
+87,2,first,Thu,1,Residential Design Theory,MURAKAMI
+103,2,second,Wed,3,Circular Economy Theory,FUJIMOTO
+96,2,second,Mon,4,Food Economics,TAKAHASHI
+104,2,second,Fri,3,Food Lifestyle Practice,NISHIMURA
+106,2,second,Fri,4,Food Lifestyle Practice,NISHIMURA
+91,2,first,Fri,3,Food Lifestyle Practice,YAMAGUCHI
+92,2,first,Fri,4,Food Lifestyle Practice,YAMAGUCHI
+113,3,first,Tue,3,Food Sensory Evaluation and Discrimination Practice,YAMAGUCHI
+115,3,first,Tue,4,Food Sensory Evaluation and Discrimination Practice,YAMAGUCHI
+111,3,first,Tue,1,Food Processing Science,NISHIMURA
+134,3,second,Tue,3,Food Processing Practice,NISHIMURA
+135,3,second,Tue,4,Food Processing Practice,NISHIMURA
+114,3,first,Tue,3,Food Development Practice,YAMAGUCHI
+116,3,first,Tue,4,Food Development Practice,YAMAGUCHI
+109,3,first,Mon,1,Food Evaluation Theory,NISHIMURA
+95,2,second,Mon,3,Confectionery Practice A/B,TANAKA
+97,2,second,Mon,4,Confectionery Practice A/B,TANAKA
+98,2,second,Tue,1,Cooking Science,YAMAGUCHI
+117,3,first,Wed,1,Fashion Design Practice,HAYASHI
+118,3,first,Wed,2,Fashion Design Practice,HAYASHI
+93,2,second,Mon,1,Fashion Design Theory,HAYASHI

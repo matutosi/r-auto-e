@@ -147,7 +147,7 @@ id,grade,semester,wday,hour,subject,teacher
 100,2,second,Tue,3,Universal Design Theory,MORIMOTO
 131,3,first,Fri,2,Recreation Practice A,HASHIMOTO
 155,3,second,Fri,2,Recreation Practice B,HASHIMOTO
-157,3,all,others,9,Recreation Practice,HASHIMOTO
+157,3,others,others,9,Recreation Practice,HASHIMOTO
 101,2,second,Wed,1,Recreation Theory,HASHIMOTO
 89,2,first,Fri,1,Environmental Amenity Theory,MORIMOTO
 99,2,second,Tue,2,Health and Nutrition,INOUE
